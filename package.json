@@ -19,6 +19,9 @@
 		"url": "https://github.com/netbymatt/ws4kp/issues"
 	},
 	"homepage": "https://github.com/netbymatt/ws4kp#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
 	"devDependencies": {
 		"del": "^6.0.0",
 		"ejs": "^3.1.5",
